@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/logo.jpg" alt="Profile banner" width="100%" />
+  <img src="/logo.jpg" alt="Profile banner" width="50%" />
 </p>
 
 <h1 align="center">Far M</h1>
