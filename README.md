@@ -54,6 +54,5 @@ I value clarity, maintainability, and thoughtful execution. I like building inte
 
 ## Contact
 
-- GitHub: (https://github.com/themonolith-1)
 - LinkedIn: (https://www.linkedin.com/in/far-m/)
 - Portfolio: (https://www.far-web.com)
